@@ -1,5 +1,6 @@
 # 💫 About Me:
-#Vinicius Lazarotto<br>Técnico de Informática | Estudante de Ciência da Computação<br><br>Atualmente, estou trabalhando em projetos que utilizam tecnologias como React, NodeJS, MongoDB e Firebase.<br>Tenho um grande interesse por desenvolvimento web e estou constantemente aprimorando minhas habilidades. <br>No momento, estou focado em aprofundar meus conhecimentos em React, Firebase e Redux.<br><br>
+# Vinicius Lazarotto
+<br>Técnico de Informática | Estudante de Ciência da Computação<br><br>Atualmente, estou trabalhando em projetos que utilizam tecnologias como React, NodeJS, MongoDB e Firebase.<br>Tenho um grande interesse por desenvolvimento web e estou constantemente aprimorando minhas habilidades. <br>No momento, estou focado em aprofundar meus conhecimentos em React, Firebase e Redux.<br><br>
 
 
 ## 🌐 Socials:
